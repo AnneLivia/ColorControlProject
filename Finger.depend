@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603938316 source:c:\users\annel\desktop\finger\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<windows.h>
+
